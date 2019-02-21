@@ -1,5 +1,5 @@
 {
-	"name": "fuseAware/libchart",
+	"name": "fuseaware/libchart",
 	"type": "library",
 	"description": "Simple PHP chart drawing library",
 	"keywords": ["chart","charts","bar charts","line charts","pie charts"],
